@@ -26,7 +26,7 @@ body {
 }
     
 .image {
-    border-radius: 20px;
+    border-radius: 2vw;
     width: 430px;
     height: 559px;
     padding: 20px;
@@ -103,7 +103,7 @@ body {
     background-color: #ffffff;
     color: #14141499;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 2vw;
     font-size: 16px;
 }
 
@@ -131,7 +131,7 @@ body {
     gap: 10px;
     padding: 20px;
     background-color: #ffffff;
-    border-radius: 10px;
+    border-radius: 2vw;
     font-size: 76px;
     color: #000000;
     width: 1280px;
@@ -171,7 +171,7 @@ body {
     height: 840px;
     }
     .image {
-    border-radius: 20px;
+    border-radius: 2vw;
     width: 640px;
     height: 640px;
     padding: 0 auto;
@@ -232,7 +232,7 @@ body {
     counter-increment: step-counter;
     background-color: #ffffff;
     color: #4c6a37;
-    border-radius: 8px;
+    border-radius: 2vw;
     font-size: 16px;
     position: relative;
     font-weight: 600;
@@ -262,7 +262,7 @@ body {
     background-color: #ffffff;
     color: #14141499;
     padding: 15px;
-    border-radius: 10px;
+    border-radius: 2vw;
     font-size: 16px;
     font-weight: 500;
     }
@@ -295,7 +295,7 @@ body {
     gap: 10px;
     padding: 10px;
     background-color: #ffffff;
-    border-radius: 5px;
+    border-radius: 2vw;
     font-size: 64px;
     color: #000000;
     width: 768px;
@@ -338,7 +338,7 @@ body {
     height: 530px;
     }
     .image {
-    border-radius: 20px;
+    border-radius: 2vw;
     width: 335px;
     height: 450px;
     padding: 0 auto;
@@ -347,7 +347,7 @@ body {
     flex: 1;
     background-color: #4c6a37;
     color: #ffffff;
-    padding: 20px;
+    padding: 0 auto;
     width: 375px;
     height: 654px;
     gap: 30px;
@@ -355,7 +355,7 @@ body {
     .text-section-div {
     width: 375px;
     height: 645px;
-    padding: 50px;
+    padding: 25px;
     }
     .text-section h1 {
     width: 335px;
@@ -363,7 +363,7 @@ body {
     font-size: 28px;
     margin: 0 0 20px;
     font-weight: 600;
-    padding: 10px;
+    padding: 5px;
     }
     .text-section h1 span {
     color: #b3b3b3;
@@ -374,8 +374,8 @@ body {
     height: 54px;
     font-family: Inter Tight;
     font-size: 14px;
-    margin-bottom: 20px;
-    padding: 10px;
+    margin-bottom: 10px;
+    padding: 0 auto;
     font-weight: 500;
     color: #fbfbfb;
     }
@@ -393,7 +393,7 @@ body {
     counter-increment: step-counter;
     background-color: #ffffff;
     color: #4c6a37;
-    border-radius: 8px;
+    border-radius: 2vw;
     position: relative;
     font-size: 12px;
     font-weight: 500;
@@ -420,13 +420,12 @@ body {
     gap: 15px;
     background-color: #ffffff;
     color: #14141499;
-    padding: 15px;
-    border-radius: 10px;
+    padding: 0 auto;
+    border-radius: 2vw;
     font-size: 12px;
     font-weight: 500;
     }
     .step p {
-    margin: 0;
     font-size: 12px;
     color: #141414;
     }
@@ -449,7 +448,7 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 10px;
+    padding: 0 auto;
     background-color: #ffffff;
     radius: 30px;
     font-size: 48px;
